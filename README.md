@@ -3,6 +3,6 @@ Aplicación G.O, es una aplicación desarrollada para la gestión de préstamo d
 
 
 *   [El proyecto adjunto se dividió de la siguiente forma:](#resumen)
-    *   [PHPS](#filosofía)
-    *   [Base de Datos](#html-en-línea)
-    *   [App Local](#escape-automático-para-caracteres-especiales) 
+    *   [PHPS](#php)
+    *   [Base de Datos](#Bd)
+    *   [App Local](#App) 
